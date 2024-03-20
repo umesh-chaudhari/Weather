@@ -3,7 +3,6 @@
 package com.umesh_app.weather.presentation
 
 
-import android.util.Log
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
